@@ -42,8 +42,3 @@ The result shown below
 
 
 
-![]()
-
-
-
-
