@@ -23,8 +23,15 @@ Summary: Summarize the results of the machine learning models, and include a rec
 
 ````
 
-Overview:
+## Overview:
 
 The purpose of this loan prediction risk analysis is to develop machine learning model to predict credit risk for a company called LendingClub, a peer-to-peer lending services company. The machine learning will provide a quicker and more reliable loan experience to the customers. And also to provide a more accurate identification of good candidates for loans. The main objective of this analysis is therefore; first build machine learning model designed to predict credit risk. Once we developed the model, we will evaluated the performance to see how well the model predict the data. Since credit risk inherently has an unbalalnced classification, we will also utilize different techniques to train and evaluate models with unbalanced classes . 
 
-data preparation, statistical reasoning, and machine learning. 
+## Resources
+* Software: Python 3.9.15, Anaconda Navigator 2.3.2, Conda 23.1.0, Jupyter Notebook 6.5.2
+
+## Result:
+
+1. Oversampling
+The result shown below
+
