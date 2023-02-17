@@ -35,3 +35,6 @@ The purpose of this loan prediction risk analysis is to develop machine learning
 1. Oversampling
 The result shown below
 
+
+2. SMET
+
